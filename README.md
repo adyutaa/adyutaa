@@ -1,7 +1,9 @@
 
-<h1 align="center">Hi 👋, I'm Adyuta! <span><img src="/cat-kawaii.gif" alt="/" width="30px" height="30px"></span>   </h1> 
+<h1 align="center">Hi 👋, I'm Adyuta! <span><img src="/nyan-cat-60fps.gif" alt="/" width="25px" height="25px"></span>   </h1> 
 
-<h3 align="center">Undergraduate Informatics Student who's passionate in Software Developing, AI, and Machine Learning currently learning Frontend Technologies.</h3> 
+<h3 align="center">Undergraduate Informatics Student who's passionate in Software Developing, AI, and Machine Learning currently learning Frontend Technologies.  <span><img src="/bongo-cat.gif" alt="/" width="25px" height="25px"></span>
+
+</h3> 
 
 - 🔭 I’m currently working on **MarshieloAI**
 
@@ -15,7 +17,7 @@
 
 - 📄 Know about my experiences [linkedin.com/id/adyutaindra](linkedin.com/id/adyutaindra)
 
-- ⚡ Fun fact **also known as Marshielo**
+- ⚡ Fun fact **also known as Marshielo**  <span><img src="/bongo-cat.gif" alt="/" width="25px" height="25px"></span>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
