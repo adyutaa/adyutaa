@@ -1,7 +1,7 @@
 
-<h1 align="center">Hi 👋, I'm Adyuta!</h1> 
+<h1 align="center">Hi 👋, I'm Adyuta! <span><img src="/cat-kawaii.gif" alt="/" width="30px" height="30px"></span>   </h1> 
 
-<h3 align="center">Undergraduate Informatics Student who's passionate in Software Developing, AI, and Machine Learning currently learning Frontend Technologies.</h3> <img src="/cat-kawaii.gif" alt="/" width="40px" height="40px">
+<h3 align="center">Undergraduate Informatics Student who's passionate in Software Developing, AI, and Machine Learning currently learning Frontend Technologies.</h3> 
 
 - 🔭 I’m currently working on **MarshieloAI**
 
