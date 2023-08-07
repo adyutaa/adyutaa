@@ -1,4 +1,7 @@
+<div>
 <h1 align="center">Hi 👋, I'm Adyuta!</h1> 
+<img src="/nyancat60fps.gif" alt="/">
+</div>
 
 <h3 align="center">Undergraduate Informatics Student who's passionate in Software Developing, AI, and Machine Learning currently learning Frontend Technologies.</h3>
 
