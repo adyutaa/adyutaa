@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Adyuta! <span><img src="/nyan-cat-60fps.gif" alt="/" width="25px" height="25px"></span>   </h1> 
 
-<h3 align="center">Undergraduate Informatics Student who's passionate in Software Developing, AI, and Machine Learning currently learning Frontend Technologies.  <span><img src="/bongo-cat.gif" alt="/" width="25px" height="25px"></span>
+<h3 align="center">Undergraduate Informatics Student who's passionate in Software Developing, AI, and Machine Learning currently learning Frontend Technologies.
 
 </h3> 
 
