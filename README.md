@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adyuta!</h1> 
-<div class="tenor-gif-embed" data-postid="12635690" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/bongo-cat-gif-12635690">Bongo Cat GIF</a>from <a href="https://tenor.com/search/bongo+cat-gifs">Bongo Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <h3 align="center">Undergraduate Informatics Student who's passionate in Software Developing, AI, and Machine Learning currently learning Frontend Technologies.</h3>
 
 - 🔭 I’m currently working on **MarshieloAI**
