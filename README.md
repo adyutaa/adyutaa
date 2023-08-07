@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adyuta!</h1> 
-<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 <h3 align="center">Undergraduate Informatics Student who's passionate in Software Developing, AI, and Machine Learning currently learning Frontend Technologies.</h3>
 
 - 🔭 I’m currently working on **MarshieloAI**
