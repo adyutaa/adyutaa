@@ -5,7 +5,7 @@
 
 </h3> 
 
-- 🔭 I’m currently working on **MarshieloAI**
+- 🔭 I’m currently working on my project **Brilliant**
 
 - 🌱 I’m currently learning **Typescript, NextJS, ReactJS, and Machine Learning**
 
