@@ -1,7 +1,7 @@
 
 <h1 align="center">Hola!👋, I'm Marshielo! <span><img src="/nyan-cat-60fps.gif" alt="/" width="25px" height="25px"></span>   </h1> 
 
-<h3 align="center">Undergraduate Informatics Student who's passionate in Software Development, and Machine Learning.
+<h3 align="center">Undergraduate Informatics Student whose passionate in Software Development, and Machine Learning.
 
 </h3> 
 
