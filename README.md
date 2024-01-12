@@ -1,17 +1,15 @@
 
-<h1 align="center">Hola!👋, I'm Adyuta! <span><img src="/nyan-cat-60fps.gif" alt="/" width="25px" height="25px"></span>   </h1> 
+<h1 align="center">Hola!👋, I'm Marshielo! <span><img src="/nyan-cat-60fps.gif" alt="/" width="25px" height="25px"></span>   </h1> 
 
-<h3 align="center">Undergraduate Informatics Student who's passionate in Software Development, AI, and Machine Learning currently learning Mobile Development.
+<h3 align="center">Undergraduate Informatics Student who's passionate in Software Development, and Machine Learning.
 
 </h3> 
 
-- 🔭 I’m currently working on Android App project called **MedRemind**
+- 🔭 I’m currently working on Website project **🤫🤫🤫**
 
-- 🌱 I’m currently learning **Typescript, NextJS, ReactJS,Mobile Dev(Jetpack Compose) and Machine Learning**
+- 🌱 I’m currently learning **Mobile Dev (Flutter & Swift) and Machine Learning*
 
 - 👨‍💻 All of my projects are available at [github.com/adyutaa](github.com/adyutaa)
-
-- 📝 I regularly write articles on [adyuta.vercel.app](adyuta.vercel.app)
 
 - 📫 Reach me out **adyuta24.hr@gmail.com**
 
