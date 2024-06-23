@@ -11,7 +11,7 @@
 
 ## Professional Experience:
 
-#### 1. [Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka](https://grow.google/intl/id_id/bangkit/?tab=machine-learning) | Machine Learning Cohort - Bangkit Cohort 2024 | Indonesia `February 2024 – Present`
+#### 1. [Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka](https://grow.google/intl/id_id/bangkit/?tab=machine-learning) | Machine Learning Cohort | Indonesia `February 2024 – Present`
 
    ##### Capstone Project : [NutriLens: AI-Powered Food Analysis & Recipe Assistant](https://github.com/NutriLensAI)
    ##### Specialization: 
@@ -21,7 +21,7 @@
    - Sequences, Time Series and Prediction in TensorFlow
    - Model Deployment in Device and Browser with TensorFlow
 
-#### 2. [Laboratorium Terpadu Informatika UII](https://www.linkedin.com/company/laboratorium-terpadu-informatika-uii/) | Programming Logic and Algorithm & Data Structure Assistant| Yogyakarta `September 2022 – September 2023`
+#### 2. [Laboratorium Terpadu Informatika UII](https://www.linkedin.com/company/laboratorium-terpadu-informatika-uii/) | Algorithm & Data Structure Assistant| Yogyakarta `September 2022 – September 2023`
 
    ##### Responsibilities: 
    - Assisting students to conduct lab courses and projects
