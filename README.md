@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi!👋, I'm Adyuta</h1> 
-
+![](https://github.com/adyutaa/terminal.gif)
 
 ## About me
 - 👨‍🎓 I'm third-year Informatics undergraduate at Universitas Islam indonesia with a passion for Machine Learning & AI.
@@ -11,7 +11,7 @@
 
 ## Professional Experience:
 
-#### 1. [Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka](https://grow.google/intl/id_id/bangkit/?tab=machine-learning) | Machine Learning Cohort | Indonesia `February 2024 – Present`
+### 1. [Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka](https://grow.google/intl/id_id/bangkit/?tab=machine-learning) | Machine Learning Cohort | Indonesia `February 2024 – Present`
 
    ##### Capstone Project : [NutriLens: AI-Powered Food Analysis & Recipe Assistant](https://github.com/NutriLensAI)
    ##### Specialization: 
@@ -21,7 +21,7 @@
    - Sequences, Time Series and Prediction in TensorFlow
    - Model Deployment in Device and Browser with TensorFlow
 
-#### 2. [Laboratorium Terpadu Informatika UII](https://www.linkedin.com/company/laboratorium-terpadu-informatika-uii/) | Algorithm & Data Structure Assistant| Yogyakarta `September 2022 – September 2023`
+### 2. [Laboratorium Terpadu Informatika UII](https://www.linkedin.com/company/laboratorium-terpadu-informatika-uii/) | Algorithm & Data Structure Assistant| Yogyakarta `September 2022 – September 2023`
 
    ##### Responsibilities: 
    - Assisting students to conduct lab courses and projects
@@ -29,9 +29,19 @@
    - Providing tutorials and mini lecture for students
    - Teaching Programming Logic and data structure algorithm to students 
 
+## Honors And Awards
+
+   ### 1. Top 58 Finalists HackFest 2023 by GDSC Indonesia
+   ####Issued by GDSC Indonesia | March 2023
+   Exprimer is a web application designed with React JS, offering a range of mental health services. Users can freely express their concerns and experiences, maintaining anonymity if desired. The platform serves as an intermediary, connecting      individuals with mental health issues to professional psychologists for consultations, both online and offline. Additionally, Exprimer features a comprehensive knowledge base on mental health topics and facilitates chat-based consultations      without the need for prior agreements. Users can engage with each other through interactive posting, including comments and reactions. The platform employs algorithms to showcase relevant discussions based on user experiences and offers a       reporting mechanism for flagging content that violates community policies and privacy standards.
+
+   #### 2. 3rd Place Programming and Logic Information Technology Traditional Festival 9
+   ####Issued by Universitas Budi Luhur |  December 2021
+
+   
 ## Education:
 
-#### 1. [Universitas Islam Indonesia](https://www.uii.ac.id) | Bachelor of Informatics | Yogyakarta `2021-Present`
+### 1. [Universitas Islam Indonesia](https://www.uii.ac.id) | Bachelor of Informatics | Yogyakarta `2021-Present`
 
    ##### On-campus Activities:
    - Academic Core Team Google Developer Student Clubs - Universitas Islam Indonesia
