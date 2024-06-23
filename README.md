@@ -1,35 +1,54 @@
 
-<h1 align="center">Hola!👋, I'm Marshielo! <span><img src="/nyan-cat-60fps.gif" alt="/" width="25px" height="25px"></span>   </h1> 
+<h1 align="center">Hi!👋, I'm Adyuta</h1> 
 
-<h3 align="center">Undergraduate Informatics Student whose passionate in Software Development, and Machine Learning.
 
-</h3> 
+## About me
+- 👨‍🎓 I'm third-year Informatics undergraduate at Universitas Islam indonesia with a passion for Machine Learning & AI.
+- 💻 Currently Rockin cool things on Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka.
+- 👍 Enthusiastic about learning Data Science and AI(Neural Networks, Computer Vision, and Natural Languange Processing).
+- 📫 How to reach me: adyuta24.hr@gmail.com
+- 🤝 Connect with me: [LinkedIn](https://www.linkedin.com/in/adyutaindra/), [Kaggle](https://www.kaggle.com/adyutaindraadyatma)
 
-- 🔭 I’m currently working on Website project **🤫🤫🤫**
+## Professional Experience:
 
-- 🌱 I’m currently learning **Mobile Dev (Flutter & Swift) and Machine Learning*
+#### 1. [Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka](https://grow.google/intl/id_id/bangkit/?tab=machine-learning) | Machine Learning Cohort - Bangkit Cohort 2024 | Indonesia `February 2024 – Present`
 
-- 👨‍💻 All of my projects are available at [github.com/adyutaa](github.com/adyutaa)
+   ##### Capstone Project : [NutriLens: AI-Powered Food Analysis & Recipe Assistant](https://github.com/NutriLensAI)
+   ##### Specialization: 
+   - Supervised, Unsupervised, Recommender System and Reinforcement Learning
+   - Convolutional Neural Networks in TensorFlow 
+   - Natural Language Processing in TensorFlow 
+   - Sequences, Time Series and Prediction in TensorFlow
+   - Model Deployment in Device and Browser with TensorFlow
 
-- 📫 Reach me out **adyuta24.hr@gmail.com**
+#### 2. [Laboratorium Terpadu Informatika UII](https://www.linkedin.com/company/laboratorium-terpadu-informatika-uii/) | Programming Logic and Algorithm & Data Structure Assistant| Yogyakarta `September 2022 – September 2023`
 
-- 📄 Know about my experiences [linkedin.com/id/adyutaindra](linkedin.com/id/adyutaindra)
+   ##### Responsibilities: 
+   - Assisting students to conduct lab courses and projects
+   - Graded and curated students works and projects
+   - Providing tutorials and mini lecture for students
+   - Teaching Programming Logic and data structure algorithm to students 
 
-- ⚡ Fun fact **also known as Marshielo**  <span><img src="/bongo-cat.gif" alt="/" width="25px" height="25px"></span>
+## Education:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/maarshielo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maarshielo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/adyutaindra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adyutaindra" height="30" width="40" /></a>
-<a href="https://instagram.com/adyutaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adyutaaa" height="30" width="40" /></a>
-</p>
+#### 1. [Universitas Islam Indonesia](https://www.uii.ac.id) | Bachelor of Informatics | Yogyakarta `2021-Present`
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+   ##### On-campus Activities:
+   - Academic Core Team Google Developer Student Clubs - Universitas Islam Indonesia
+   - Coordinator of Commission A (Director) INPUT Himpunan Mahasiswa Informatika UII 2023
+   - Coordinator of Commission A (Director) PORSEMATIK (Pekan Olahraga dan Seni Mahasiswa Informatika) Himpunan Mahasiswa Informatika UII 2022
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adyutaa&show_icons=true&locale=en&layout=compact" alt="adyutaa" /></p>
+### Languages and Tools:
+<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />
+<img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="Tensorflow" style="padding-right:10px;"/>
+<img align="left" alt="R" width="30px" src="https://www.r-project.org/Rlogo.png" style="padding-right:0px;" />
+<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="VsCode" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Excel" width="30px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" style="padding-right:10px;" />
+<img align="left" alt="Jupyter" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShGBC3NULr8hnz4zAVW7wBcRHBlZ45lpsjZsTNSwE4qKJqlZ0En2SQHFDZcrcLmmBM2IY&usqp=CAU" style="padding-right:0px;" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adyutaa&" alt="adyutaa" /></p>
+<img src="https://myreadme.vercel.app/api/embed/adyutaa?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
 
 
 
