@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi!👋, I'm Adyuta</h1> 
-![](https://github.com/adyutaa/terminal.gif)
+
+![terminal](https://github.com/adyutaa/adyutaa/assets/44364705/d27a386e-3a34-4321-9c9e-cbf723455b18)
 
 ## About me
 - 👨‍🎓 I'm third-year Informatics undergraduate at Universitas Islam indonesia with a passion for Machine Learning & AI.
