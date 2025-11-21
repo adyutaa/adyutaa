@@ -3,32 +3,20 @@
 
 ![terminal](https://github.com/adyutaa/adyutaa/assets/44364705/d27a386e-3a34-4321-9c9e-cbf723455b18)
 
-## About me
-- 👨‍🎓 Software Engineer Based in Yogyakarta, Indonesia 🇮🇩
-- 💻 Currently Rockin cool things on Badan Sistem Informasi Universitas Islam Indonesia.
-- 👍 Enthusiastic about Application Development, Artificial I
-- 📫 How to reach me: adyuta24.hr@gmail.com
-- 🤝 Connect with me: [LinkedIn](https://www.linkedin.com/in/adyutaindra/), [Kaggle](https://www.kaggle.com/adyutaindraadyatma)
-
 <table>
   <tr>
     <td width="65%" valign="center">
-      <h2>🚀 Building the Future, One Line of Code at a Time</h2>
+      <h2>🚀 Software Engineer based in Yogyakarta, Indonesia</h2>
       <p>
         Hi, I'm <b>Adyuta</b>. I don't just write code; I build solutions. 
       </p>
       <p>
-        As a recent Informatics graduate and current <b>Software Engineer at BSI UII</b>, I bridge the gap between robust web applications and cutting-edge <b>Artificial Intelligence</b>. My journey went from being a Lab Assistant teaching algorithms to a Bangkit Cohort specializing in Machine Learning.
+        As a recent Informatics graduate and current <b>Software Engineer at BSI UII</b>, I bridge the gap between robust web applications and cutting-edge <b>Artificial Intelligence</b> .
       </p>
       <p>
-        I'm passionate about creating systems that are not only functional but also intelligent. Whether it's <b>Fullstack Development</b> or <b>Deep Learning</b>, I'm always ready to tackle the next complex problem.
+        I'm passionate about creating systems that are not only functional but also intelligent. Whether it's <b>Fullstack Development</b> or <b>Deep Learning</b>, I'm always enthusiastic to tackle the next complex problem.
       </p>
        <a href="https://linkedin.com/in/adyutaindra"><img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    </td>
-    <td width="35%" align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
-      <br>
-      <b>📍 Yogyakarta, ID</b>
     </td>
   </tr>
 </table>
@@ -52,25 +40,6 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-## Professional Experience:
-
-### 1. [Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka](https://grow.google/intl/id_id/bangkit/?tab=machine-learning) | Machine Learning Cohort | Indonesia `February 2024 – Present`
-
-   ##### Capstone Project : [NutriLens: AI-Powered Food Analysis & Recipe Assistant](https://github.com/NutriLensAI)
-   ##### Specialization: 
-   - Supervised, Unsupervised, Recommender System and Reinforcement Learning
-   - Convolutional Neural Networks in TensorFlow 
-   - Natural Language Processing in TensorFlow 
-   - Sequences, Time Series and Prediction in TensorFlow
-   - Model Deployment in Device and Browser with TensorFlow
-
-### 2. [Laboratorium Terpadu Informatika UII](https://www.linkedin.com/company/laboratorium-terpadu-informatika-uii/) | Algorithm & Data Structure Assistant| Yogyakarta `September 2022 – September 2023`
-
-   ##### Responsibilities: 
-   - Assisting students to conduct lab courses and projects
-   - Graded and curated students works and projects
-   - Providing tutorials and mini lecture for students
-   - Teaching Programming Logic and data structure algorithm to students 
 
 ## Honors And Awards
 
@@ -81,24 +50,7 @@
    #### 2. 3rd Place Programming and Logic Information Technology Traditional Festival 9
    ####Issued by Universitas Budi Luhur |  December 2021
 
-   
-## Education:
-
-### 1. [Universitas Islam Indonesia](https://www.uii.ac.id) | Bachelor of Informatics | Yogyakarta `2021-Present`
-
-   ##### On-campus Activities:
-   - Academic Core Team Google Developer Student Clubs - Universitas Islam Indonesia
-   - Coordinator of Commission A (Director) INPUT Himpunan Mahasiswa Informatika UII 2023
-   - Coordinator of Commission A (Director) PORSEMATIK (Pekan Olahraga dan Seni Mahasiswa Informatika) Himpunan Mahasiswa Informatika UII 2022
-
-### Languages and Tools:
-<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />
-<img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="Tensorflow" style="padding-right:10px;"/>
-<img align="left" alt="R" width="30px" src="https://www.r-project.org/Rlogo.png" style="padding-right:0px;" />
-<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="VsCode" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Excel" width="30px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" style="padding-right:10px;" />
-<img align="left" alt="Jupyter" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShGBC3NULr8hnz4zAVW7wBcRHBlZ45lpsjZsTNSwE4qKJqlZ0En2SQHFDZcrcLmmBM2IY&usqp=CAU" style="padding-right:0px;" />
+  
 
 <img src="https://myreadme.vercel.app/api/embed/adyutaa?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
