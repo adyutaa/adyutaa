@@ -4,11 +4,53 @@
 ![terminal](https://github.com/adyutaa/adyutaa/assets/44364705/d27a386e-3a34-4321-9c9e-cbf723455b18)
 
 ## About me
-- 👨‍🎓 I'm third-year Informatics undergraduate at Universitas Islam indonesia with a passion for Machine Learning & AI.
-- 💻 Currently Rockin cool things on Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka.
-- 👍 Enthusiastic about learning Data Science and AI(Neural Networks, Computer Vision, and Natural Languange Processing).
+- 👨‍🎓 Software Engineer Based in Yogyakarta, Indonesia 🇮🇩
+- 💻 Currently Rockin cool things on Badan Sistem Informasi Universitas Islam Indonesia.
+- 👍 Enthusiastic about Application Development, Artificial I
 - 📫 How to reach me: adyuta24.hr@gmail.com
 - 🤝 Connect with me: [LinkedIn](https://www.linkedin.com/in/adyutaindra/), [Kaggle](https://www.kaggle.com/adyutaindraadyatma)
+
+<table>
+  <tr>
+    <td width="65%" valign="center">
+      <h2>🚀 Building the Future, One Line of Code at a Time</h2>
+      <p>
+        Hi, I'm <b>Adyuta</b>. I don't just write code; I build solutions. 
+      </p>
+      <p>
+        As a recent Informatics graduate and current <b>Software Engineer at BSI UII</b>, I bridge the gap between robust web applications and cutting-edge <b>Artificial Intelligence</b>. My journey went from being a Lab Assistant teaching algorithms to a Bangkit Cohort specializing in Machine Learning.
+      </p>
+      <p>
+        I'm passionate about creating systems that are not only functional but also intelligent. Whether it's <b>Fullstack Development</b> or <b>Deep Learning</b>, I'm always ready to tackle the next complex problem.
+      </p>
+       <a href="https://linkedin.com/in/adyutaindra"><img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    </td>
+    <td width="35%" align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
+      <br>
+      <b>📍 Yogyakarta, ID</b>
+    </td>
+  </tr>
+</table>
+
+
+# 💻 Tech Stack
+<!-- Badges from https://github.com/Ileriayo/markdown-badges -->
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)<br/>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)<br/>
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ## Professional Experience:
 
