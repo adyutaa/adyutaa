@@ -40,16 +40,6 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-
-## Honors And Awards
-
-   ### 1. Top 58 Finalists HackFest 2023 by GDSC Indonesia
-   ####Issued by GDSC Indonesia | March 2023
-   Exprimer is a web application designed with React JS, offering a range of mental health services. Users can freely express their concerns and experiences, maintaining anonymity if desired. The platform serves as an intermediary, connecting      individuals with mental health issues to professional psychologists for consultations, both online and offline. Additionally, Exprimer features a comprehensive knowledge base on mental health topics and facilitates chat-based consultations      without the need for prior agreements. Users can engage with each other through interactive posting, including comments and reactions. The platform employs algorithms to showcase relevant discussions based on user experiences and offers a       reporting mechanism for flagging content that violates community policies and privacy standards.
-
-   #### 2. 3rd Place Programming and Logic Information Technology Traditional Festival 9
-   ####Issued by Universitas Budi Luhur |  December 2021
-
   
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=adyutaa&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 
@@ -57,6 +47,9 @@
 
 
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="codecat" />
+
+
+<img src="[https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif](https://i.pinimg.com/originals/3e/06/86/3e0686e45f7f8675972b0b045809954b.gif)" alt="codecat" />
 
 
 ![terminal](https://github.com/adyutaa/adyutaa/assets/44364705/d27a386e-3a34-4321-9c9e-cbf723455b18)
