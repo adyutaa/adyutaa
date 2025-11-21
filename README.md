@@ -12,10 +12,10 @@
         Hi, I'm <b>Adyuta</b>. I don't just write code; I build solutions. 
       </p>
       <p>
-        As a recent Informatics graduate and current <b>Software Engineer at BSI UII</b>, I bridge the gap between robust web applications and cutting-edge <b>Artificial Intelligence</b> .
+        As a Software Engineer at Badan Sistem Informasi UII, I build the digital backbone that powers institutional efficiency. I specialize in translating intricate business requirements into high-performance backend solutions, moving from legacy manual processes to real-time automation.
       </p>
-      <p>
-        I'm passionate about creating systems that are not only functional but also intelligent. Whether it's <b>Fullstack Development</b> or <b>Deep Learning</b>, I'm always enthusiastic to tackle the next complex problem.
+      <p>   
+Beyond standard engineering, I leverage Generative AI as a core component of my stack. I integrate LLMs and Vector Search into applications to create smarter applications—merging the reliability of enterprise systems with the intelligence of modern AI.
       </p>
        <a href="https://linkedin.com/in/adyutaindra"><img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     </td>
