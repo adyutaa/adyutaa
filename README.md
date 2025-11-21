@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi!👋, I'm Adyuta</h1> 
 
-![terminal](https://github.com/adyutaa/adyutaa/assets/44364705/d27a386e-3a34-4321-9c9e-cbf723455b18)
+
 
 <table>
   <tr>
@@ -51,10 +51,12 @@
    ####Issued by Universitas Budi Luhur |  December 2021
 
   
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adyutaa&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 
 <img src="https://myreadme.vercel.app/api/embed/adyutaa?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="codecat" />
 
 
-
+![terminal](https://github.com/adyutaa/adyutaa/assets/44364705/d27a386e-3a34-4321-9c9e-cbf723455b18)
