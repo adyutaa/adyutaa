@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td width="65%" valign="center">
-      <h2>🚀 Software Engineer based in Yogyakarta, Indonesia</h2>
+      <h2>🚀 Software Engineer based in Jakarta, Indonesia</h2>
       <p>
         Hi, I'm <b>Adyuta</b>. I don't just write code; I build solutions. 
       </p>
